@@ -1,43 +1,42 @@
-# Night Owl 🌌
+# Emerald Grove 🌲
 
-![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sdras.night-owl)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sdras.night-owl)
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/sdras.night-owl)
+![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sdras.emerald-grove)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sdras.emerald-grove)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/sdras.emerald-grove)
 
 
-A Visual Studio Code theme for the night owls out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+A Visual Studio Code theme for those who love the forest. Fine-tuned for those of us who like to code in nature. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
-As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅
+As of 1.0.0, there's a Verdant Dawn theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅
 
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
-## Night Owl
+## Emerald Grove
 
-![First Screen](first-screen.jpg)
-![Night Owl Frameworks](three-dark.jpg)
+![Emerald Grove Frameworks](three-dark.jpg)
 
-## Light Owl
+## Verdant Dawn
 
 ![First Screen Light](light-owl-full.jpg)
-![Light Owl Frameworks](three-light.jpg)
+![Verdant Dawn Frameworks](three-light.jpg)
 
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `night owl`
+4.  Search for `emerald grove`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Emerald Grove**
 
 ## Disable Italics
 
-If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
+If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Emerald Grove No Italics** as your color theme.
 
 ## Other versions
 
-The community is awesome and has ported this theme over to other environments.
+Note: The following ports were created for the original Night Owl theme. They may be updated in the future to match the Emerald Grove naming, but for now, they retain the original Night Owl name.
 
 #### Dark Theme
 
@@ -88,21 +87,47 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 
 ```
 "workbench.colorCustomizations": {
-  "[Night Owl]": {
+  "[Emerald Grove]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
     "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
-    "sideBar.foreground": "#8BADC1"
+    "sideBar.foreground": "#8BADC1",
+    "editor.italic": true,
+    "editor.tokenColorCustomizations": {
+      "[Emerald Grove]": {
+        "textMateRules": [
+          {
+            "scope": ["comment", "punctuation.definition.comment"],
+            "settings": {
+              "fontStyle": ""
+            }
+          }
+        ]
+      }
+    }
   },
-  "[Night Owl (No Italics)]": {
+  "[Emerald Grove (No Italics)]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
     "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
-    "sideBar.foreground": "#8BADC1"
+    "sideBar.foreground": "#8BADC1",
+    "editor.italic": false,
+    "editor.tokenColorCustomizations": {
+      "[Emerald Grove (No Italics)]": {
+        "textMateRules": [
+          {
+            "scope": ["comment", "punctuation.definition.comment"],
+            "settings": {
+              "fontStyle": ""
+            }
+          }
+        ]
+      }
+    }
   }
 },
 ```

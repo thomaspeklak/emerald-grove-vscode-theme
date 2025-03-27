@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "night-owl" extension are be documented in this file.
+All notable changes to the "emerald-grove" extension are be documented in this file.
 
 # "2.1.1
 
