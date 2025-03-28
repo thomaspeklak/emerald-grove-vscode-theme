@@ -6,7 +6,7 @@ Based on the fabulous [Night Owl](https://github.com/sdras/night-owl-vscode-them
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/topek.emerald-grove)
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/topek.emerald-grove)
 
-<img src="./emerald-grove.png" alt="Emerald Grove Logo" width="250" />
+<img src="emerald-grove.png" alt="Emerald Grove Logo" width="250" />
 
 A Visual Studio Code theme for those who love the forest. Fine-tuned for those of us who like to code in nature. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
@@ -16,11 +16,11 @@ About this theme, and some of the considerations made while creating it (as well
 
 ## Emerald Grove
 
-![Emerald Grove Frameworks](./preview-emerald-grove.png)
+![Emerald Grove Frameworks](preview-emerald-grove.png)
 
 ## Verdant Dawn
 
-![Verdant Dawn Frameworks](./preview-verdant-dawn.png)
+![Verdant Dawn Frameworks](preview-verdant-dawn.png)
 
 # Installation
 
