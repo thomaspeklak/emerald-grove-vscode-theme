@@ -1,9 +1,12 @@
 # Emerald Grove 🌲
 
-![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sdras.emerald-grove)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sdras.emerald-grove)
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/sdras.emerald-grove)
+Based on the fabulous [Night Owl](https://github.com/sdras/night-owl-vscode-theme) theme from Sarah Drasner.
 
+![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/topek.emerald-grove)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/topek.emerald-grove)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/topek.emerald-grove)
+
+<img src="./emerald-grove.png" alt="Emerald Grove Logo" width="250" />
 
 A Visual Studio Code theme for those who love the forest. Fine-tuned for those of us who like to code in nature. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
@@ -13,12 +16,11 @@ About this theme, and some of the considerations made while creating it (as well
 
 ## Emerald Grove
 
-![Emerald Grove Frameworks](three-dark.jpg)
+![Emerald Grove Frameworks](./preview-emerald-grove.png)
 
 ## Verdant Dawn
 
-![First Screen Light](light-owl-full.jpg)
-![Verdant Dawn Frameworks](three-light.jpg)
+![Verdant Dawn Frameworks](./preview-verdant-dawn.png)
 
 # Installation
 
@@ -34,58 +36,7 @@ About this theme, and some of the considerations made while creating it (as well
 
 If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Emerald Grove No Italics** as your color theme.
 
-## Other versions
-
-Note: The following ports were created for the original Night Owl theme. They may be updated in the future to match the Emerald Grove naming, but for now, they retain the original Night Owl name.
-
-#### Dark Theme
-
-- Hyper: [https://github.com/pbomb/hyper-night-owl](https://github.com/pbomb/hyper-night-owl)
-- iTerm2
-  1.  [https://github.com/nickcernis/iterm2-night-owl](https://github.com/nickcernis/iterm2-night-owl)
-  2.  [https://github.com/jsit/night-owl-iterm2-theme](https://github.com/jsit/night-owl-iterm2-theme)
-  3.  [https://github.com/florianeckerstorfer/night-owl-itermcolors](https://github.com/florianeckerstorfer/night-owl-itermcolors)
-  4.  [https://github.com/andrewfluck/night-owl-iterm2](https://github.com/andrewfluck/night-owl-iterm2)
-- Xresources: [https://github.com/alochaus/night-owl-xresources-theme](https://github.com/alochaus/night-owl-xresources-theme)
-- Atom: [https://atom.io/themes/night-owl-vs-code-syntax](https://atom.io/themes/night-owl-vs-code-syntax)
-- Jetbrains: [https://github.com/xdrop/night-owl-jetbrains](https://github.com/xdrop/night-owl-jetbrains)
-- Emacs: [https://github.com/aaronjensen/night-owl-emacs](https://github.com/aaronjensen/night-owl-emacs)
-- Vim
-  1. [https://github.com/Khaledgarbaya/night-owl-vim-theme](https://github.com/Khaledgarbaya/night-owl-vim-theme)
-  2. [https://github.com/haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim)
-- Pygments [https://github.com/liamdawson/nightowl-pygments-style](https://github.com/liamdawson/nightowl-pygments-style)
-- Alfred: [https://github.com/jbharat/night-owl-alfred-theme](https://github.com/jbharat/night-owl-alfred-theme)
-- Ulauncher: [https://github.com/christoph-fricke/ulauncher-night-owl-theme](https://github.com/christoph-fricke/ulauncher-night-owl-theme)
-- TextMate [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/tmTheme)
-- Ace Editor [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/aceTheme)
-- RStudio [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/rstheme)
-- Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme)
-- Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
-- Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
-- Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
-- Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
-- Visual Studio 2022: [https://github.com/SumitKar01/NightOwl-Theme-VS-2022](https://github.com/SumitKar01/NightOwl-Theme-VS-2022)
-- Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
-- Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
-- Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
-- Terminology: [https://github.com/LividJava/night-owl-terminology](https://github.com/LividJava/night-owl-terminology)
-- Gnome Terminal: [https://github.com/edurojasr/night-owl-gnome-terminal](https://github.com/edurojasr/night-owl-gnome-terminal)
-- Kitty [https://github.com/Glazy/night-owl-kitty-theme](https://github.com/Glazy/night-owl-kitty-theme)
-- Ghostty [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
-
-#### Light Theme
-
-- iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
-- Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
-- Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
-- Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
-- Ghostty: [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
-
-## Separate the Editor from the Sidebar
-
-This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar, and the amount of contrast. If you wish for this to have more visual significance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
-
-```
+```json
 "workbench.colorCustomizations": {
   "[Emerald Grove]": {
     "activityBar.background": "#000C1D",
@@ -132,21 +83,6 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 },
 ```
 
-## Preferences shown in the preview
-
-The font in the preview image is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono). Editor settings to activate font ligatures:
-
-```
-"editor.fontFamily": "Dank Mono",
-"editor.fontLigatures": true,
-```
-
 ## Misc
 
-This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-owl-vscode-theme/issues)! I'm sure there are things I missed.
-
-If you use [the VS Code Babel extension](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel), you may see some inconsistencies in color for JSX, that's not coming from this theme.
-
-Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
-
-This palette was inspired in part by Material Palenight [Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme), and the accessibility idea was inspired in part by Solarized [Themes](http://ethanschoonover.com/solarized)
+This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/thomaspeklak/emerald-grove-vscode-theme/issues)! I'm sure there are things I missed.

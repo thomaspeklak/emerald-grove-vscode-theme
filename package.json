@@ -2,12 +2,12 @@
 	"name": "emerald-grove",
 	"displayName": "Emerald Grove",
 	"description": "A VS Code theme for those who love the forest. Now introducing Verdant Dawn theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-	"version": "2.1.1",
-	"publisher": "sdras",
+	"version": "1.0.0",
+	"publisher": "thomaspeklak",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sdras/emerald-grove-vscode-theme"
+		"url": "https://github.com/thomaspeklak/emerald-grove-vscode-theme"
 	},
 	"keywords": [
 		"Theme",
@@ -21,10 +21,10 @@
 		"Accessible Theme"
 	],
 	"scripts": {
-		"publish": "vsce publish"
+		"publish": "npx @vscode/vsce publish"
 	},
 	"galleryBanner": {
-		"color": "#061526",
+		"color": "#011512",
 		"theme": "dark"
 	},
 	"engines": {
@@ -33,7 +33,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "owl-icon.png",
+	"icon": "emerald-grove-175.png",
 	"contributes": {
 		"themes": [
 			{
