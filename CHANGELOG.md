@@ -2,6 +2,17 @@
 
 All notable changes to the "emerald-grove" extension are be documented in this file.
 
+
+# 0.1.1
+
+- add border to make tab groups easier resizeable
+- swap colors of tabs active/inactive an make it same as sidebar
+- optimize colors for AI pane
+
+---------------------------------------------------------------------------------
+
+# Night Owl
+
 # "2.1.1
 
 - Add Ghostty theme links
